@@ -1,0 +1,65 @@
+HELP.md
+.gradle
+build/
+**/build/*
+*/*/build/*
+!../gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+**/bin
+
+### STS ###
+.apt_generated
+.factorypath
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+!.idea/icon.png
+*.iws
+*.iml
+*.ipr
+out/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+*.jar
+**/.DS_Store
+# Cache of project
+.gradletasknamecache
+
+# Eclipse Gradle plugin generated files
+# Eclipse Core
+.project
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+*.sql
+!server/**/*.sql
+!server/**/*.jar
+**/bs.json
+apis.json
+nodes.json
+**/out
+component.inbounds.json
+scan_bytecode/src/main/java/org/archguard/scanner/bytecode/generics/*
+dependencies
+localtesting_*.json
+localtesting_*.csv
+!legacy/scan_jacoco/src/main/resources/db/migration/ddl.sql
+*_apis.json
+*_codes.json
+*_databases.json
+*_issues.json
+*_estimates.json
+slot.json
+*.proto
+*.pb

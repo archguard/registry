@@ -1,0 +1,28 @@
+{
+  "name": "setup",
+  "description": "Setup for the project",
+  "version": "0.0.1",
+  "author": "ArchGuard",
+  "time": {
+    "modified": "2023-02-10T15:00:00.000Z",
+    "created": "2023-02-10T15:00:00.000Z",
+    "latestVersion": "0.0.1"
+  },
+  "versions": {
+    "0.0.1": {
+      "name": "setup",
+      "description": "Setup for the project",
+      "dist": {
+        "sha": "437e7ecae8f6cb12acf22ef0f397e084d7381db6",
+        "pkg": "https://registry.archguard.org/repository/setup/setup-0.0.1.jar"
+      }
+    }
+  },
+  "homepage": "https://archguard.org",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/archguard/setup.git"
+  },
+  "license": "MIT",
+  "readme": "README.md"
+}
