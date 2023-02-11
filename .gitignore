@@ -32,7 +32,6 @@ out/
 
 ### VS Code ###
 .vscode/
-*.jar
 **/.DS_Store
 # Cache of project
 .gradletasknamecache
@@ -63,3 +62,4 @@ localtesting_*.csv
 slot.json
 *.proto
 *.pb
+!actions/**/*.jar
