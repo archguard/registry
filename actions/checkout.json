@@ -6,15 +6,15 @@
   "time": {
     "modified": "2023-02-10T15:00:00.000Z",
     "created": "2023-02-10T15:00:00.000Z",
-    "latestVersion": "0.0.1"
+    "latestVersion": "0.1.0-SNAPSHOT"
   },
   "versions": {
-    "0.0.1": {
+    "0.1.0-SNAPSHOT": {
       "name": "Checkout",
       "description": "Checkout for the project",
       "dist": {
         "sha": "437e7ecae8f6cb12acf22ef0f397e084d7381db6",
-        "pkg": "https://registry.archguard.org/repository/checkout/checkout-0.0.1.jar"
+        "pkg": "https://registry.archguard.org/actions/checkout/0.1.0-SNAPSHOT/checkout-0.1.0-SNAPSHOT.jar"
       }
     }
   },
